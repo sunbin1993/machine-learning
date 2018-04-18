@@ -1,0 +1,11 @@
+
+
+Machine Learning definition
+ A computer prgramme is said to learn from experience E with respect to some task T and some performance measure P
+ ,if its performance on T as measured by P improves with experience E.
+ 
+监督 有正确答案
+	回归：连续
+	分类：离散
+无监督 无正确答案
+	聚类
