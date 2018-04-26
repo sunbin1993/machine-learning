@@ -9,3 +9,7 @@ Machine Learning definition
 	分类：离散
 无监督 无正确答案
 	聚类
+	
+梯度下降  局部最低点
+		同时更新
+		
